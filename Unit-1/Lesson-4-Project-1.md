@@ -10,7 +10,7 @@ Two versions of something whose effects will be compared.
 
 ### For each of the following questions, outline how you could use an A/B test to find an answer. Be sure to identify all five key components of an A/B test we outlined above.
 
-* Does a new supplement help people sleep better?
+## Does a new supplement help people sleep better?
 
 1.  Control - a non-reactive/non-drug such as a sugar tablet 
     Test - the new-supplement
@@ -26,7 +26,7 @@ Two versions of something whose effects will be compared.
 
 
 
-* Will new uniforms help a gym's business ?
+## Will new uniforms help a gym's business ?
 
 1.  Control - the current or 'old' uniforms
     Test - the 'new' uniforms
@@ -44,7 +44,7 @@ Two versions of something whose effects will be compared.
 
 
 
-* Will a new homepage improve my online exotic pet rental business?
+## Will a new homepage improve my online exotic pet rental business?
 
 1. This will be a 30-day test of the new homepage
         
@@ -62,7 +62,7 @@ Two versions of something whose effects will be compared.
            
            
 
-* If I put 'please read' in the email subject will more people read my emails?
+## If I put 'please read' in the email subject will more people read my emails?
 
 1. The old-email template
    The new-email template
@@ -75,7 +75,3 @@ Two versions of something whose effects will be compared.
 
 1. The lenghth of time a user spends on the website
    The number of links the user clicks while using the website
-
-
-
-
