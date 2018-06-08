@@ -14,11 +14,7 @@ Having the author of the slogan deliver the reading ot the droids will introduce
 The experiment has a design flaw in that Windu was sent to only unfriendly planets will JarJar was only sent to friendly planets.
 
 The experiment does not describe the sampling of the populations on each planet.
-The sampling-bias can be corrected by creating 2 groups for each planet that are 
-randomly selecting.  Both JarJar and Windu can deliver their campaign to one of the groups.
-This procedure can be repeated on each of the 8 planets.
-
-To test the effectiveness of each campaign a T-Values and P-values can be calculated and compared between Windu and JarJar.
+The sampling-bias can be corrected by creating 2 groups for each planet that represent the general population.
 ```
 1. A company with work sites in five different countries has sent you data on employee satisfaction rates for workers in Human Resources and workers in Information Technology. Most HR workers are concentrated in three of the countries, while IT workers are equally distributed across worksites. The company requests a report on satisfaction for each job type. You calculate average job satisfaction for HR and for IT and present the report.
 ```
