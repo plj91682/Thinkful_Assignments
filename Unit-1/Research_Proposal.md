@@ -32,3 +32,15 @@ Collect Sample data:
 1. Test groups: Aggregate (2012) into 3 segments (by sizes: < 100, sqft, between 100,000 and 200,000, and greater than 200,000)
 1. Calculate T-Values between control & test groups
 1. Determine if P-Value meets 5% threshold to reject NULL Hypotheses
+
+##### Questions to answer:
+
+1.  How did markdown affect store sales with respect to size ?
+```
+smaller than 100,000 SQFT
+between 100,000 & 200,000 SQFT
+larger than 200,000 SQFT
+```
+
+1. ffff
+
