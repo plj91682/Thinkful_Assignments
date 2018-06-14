@@ -33,7 +33,7 @@ Collect Sample data:
 1. Calculate T-Values between control & test groups
 1. Determine if P-Value meets 5% threshold to reject NULL Hypotheses
 
-##### Questions to answer:
+##### AdditionalQuestions to answer:
 
 1.  How did markdown/promotions affect store sales with respect to size ?
     ```
