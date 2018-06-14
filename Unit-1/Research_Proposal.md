@@ -9,7 +9,7 @@ https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
 
 The dataset includes total sales for 45 Walmart Locations broken down by store department.  For each store, you will know the type and size (in sqft).  When available, up to 5  markdowns figures (promotion/discounts) used at each store are provided.  Please note that identifiable information regarding the locations fo a store and the nature of the discounts have been removed.  We will limit our analysis to periods where a store provides at least some markdown data.  
 
-![stores-by-size](https://raw.githubusercontent.com/plj91682/Thinkful_Capstone_1/master/Unit-1/stores-grouped-by-size.png?raw=true)
+![stores-by-size](https://raw.githubusercontent.com/plj91682/Thinkful_Capstone_1/master/Unit-1/storesbysize.png)
 
 ##### Hypothesis  
 
