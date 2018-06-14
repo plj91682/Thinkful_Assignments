@@ -35,12 +35,11 @@ Collect Sample data:
 
 ##### Questions to answer:
 
-1.  How did markdown affect store sales with respect to size ?
-```
-smaller than 100,000 SQFT
-between 100,000 & 200,000 SQFT
-larger than 200,000 SQFT
-```
-
-1. ffff
+1.  How did markdown/promotions affect store sales with respect to size ?
+    ```
+    smaller than 100,000 SQFT
+    between 100,000 & 200,000 SQFT
+    larger than 200,000 SQFT
+    ```
+1. How did markdown/promotions affect intra-quarter sales ?
 
