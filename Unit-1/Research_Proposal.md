@@ -1,4 +1,4 @@
-### Based on markdown promotions, Are stores improving their Quarterly sales from the same period last year ?
+## Based on markdown promotions, Are stores improving their Quarterly sales from the same period last year ?
 
 #### The data used for this research was part of a Kaggle Dataset and Competition sponsored by Walmart Corporation
 ```
