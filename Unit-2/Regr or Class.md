@@ -1,0 +1,10 @@
+##### For each of the following situations, decide if you would model using a regression or classification model. Discuss your reasoning with your mentor next time you meet.
+
+1. The amount a person will spend on a given site in the next 24 months.
+1. What color car someone is going to buy.
+1. How many children a family will have.
+1. If someone will sign up for a service.
+1. The number of times someone will get sick in a year.
+1. The probability someone will get sick in the next month.
+1. Which medicine will work best for a given patient.
+1. Submit a link to your work below.
